@@ -11,5 +11,6 @@
 
 2. 로컬 서버 실행(/backend/01.START_LOCAL_SERVER.bat)
 
-3. cmd창을 켜서 curl -X POST localhost:12237/parse?path={path} 입력
+3. 모델 빌드 실행(/backend/02.BUILD_MODEL.bat)
+    - 안될 시 : cmd창을 켜서 curl -X POST localhost:12237/parse?path={path} 입력
     - {path}는 해당 드라이브에서 절대 경로 ex) C:/GitHub/model -> /GitHub/model
