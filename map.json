@@ -1,0 +1,12 @@
+[ {
+  "id" : "map_plain",
+  "mapXmin" : 0,
+  "mapYmin" : 0,
+  "mapZmin" : 0,
+  "mapXmax" : 100,
+  "mapYmax" : 5,
+  "mapZmax" : 100,
+  "mapCenterX" : 50,
+  "mapCenterZ" : 50,
+  "description" : "100*5*100 크기의 맵, 한가운데 경찰서"
+} ]

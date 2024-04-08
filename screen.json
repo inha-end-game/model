@@ -1,0 +1,11 @@
+[ {
+  "id" : "screen",
+  "screenXmin" : 47,
+  "screenYmin" : 1,
+  "screenZmin" : 47,
+  "screenXmax" : 53,
+  "screenYmax" : 5,
+  "screenZmax" : 53,
+  "screenMotionCycle" : 10,
+  "description" : "경찰서 위에 설치, 4면에서 볼수있게 4개의 화면으로 이루어진 육면체 형태의 스크린 제작"
+} ]
