@@ -1,9 +1,9 @@
 [ {
   "id" : "shot_rule",
   "AimRange" : 5,
-  "MaxAimingTime" : 10,
-  "AimCoolTime" : 10,
-  "ShotCoolTime" : 20,
+  "ReloadTime" : 3,
+  "InspectCoolTime" : 5,
+  "ShotCoolTime" : 10,
   "MissShotPenalty" : 20,
-  "Description" : "사격 유무에 따라 조준 쿨타임을 다르게 설정하였습니다."
+  "Description" : "Set a different delay time for when the police shoot "
 } ]

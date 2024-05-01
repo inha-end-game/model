@@ -3,34 +3,29 @@
   "posXmin" : 50,
   "posZmin" : 50,
   "posXmax" : 50,
-  "posZmax" : 50,
-  "description" : "(50,50)이 map_plain 중점, 경찰서가 맵 중앙"
+  "posZmax" : 50
 }, {
   "id" : "spawn_criminal_inner",
   "posXmin" : 40,
   "posZmin" : 40,
   "posXmax" : 60,
-  "posZmax" : 60,
-  "description" : "경찰서로부터 10m 거리 내에 스폰 x"
+  "posZmax" : 60
 }, {
   "id" : "spawn_criminal_outer",
   "posXmin" : 10,
   "posZmin" : 10,
   "posXmax" : 90,
-  "posZmax" : 90,
-  "description" : "맵 외곽으로부터 10m 거리 내에 스폰 x"
+  "posZmax" : 90
 }, {
   "id" : "spawn_npc_inner",
   "posXmin" : 40,
   "posZmin" : 40,
   "posXmax" : 60,
-  "posZmax" : 60,
-  "description" : "경찰서로부터 10m 거리 내에 스폰 x"
+  "posZmax" : 60
 }, {
   "id" : "spawn_npc_outer",
   "posXmin" : 0,
   "posZmin" : 0,
   "posXmax" : 100,
-  "posZmax" : 100,
-  "description" : "경찰서 반경 10m 외에 모든 지역에서 스폰 가능"
+  "posZmax" : 100
 } ]
