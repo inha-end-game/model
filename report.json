@@ -1,0 +1,8 @@
+[ {
+  "id" : "report_rule",
+  "ReportRange" : 5,
+  "ReportCoolTime" : 5,
+  "EffectActivatingTime" : 5,
+  "EffectContinuousTime" : 15,
+  "Description" : "similar mechanism with shot(police)"
+} ]
