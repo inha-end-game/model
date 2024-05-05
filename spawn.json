@@ -1,9 +1,9 @@
 [ {
   "id" : "spawn_cop",
-  "posXmin" : 48,
-  "posZmin" : 50,
-  "posXmax" : 48,
-  "posZmax" : 50
+  "posXmin" : 47,
+  "posZmin" : 46,
+  "posXmax" : 47,
+  "posZmax" : 46
 }, {
   "id" : "spawn_criminal_inner",
   "posXmin" : 40,
