@@ -1,6 +1,6 @@
 [ {
   "id" : "shot_rule",
-  "AimRange" : 5,
+  "AimRange" : 10,
   "ReloadTime" : 3,
   "InspectCoolTime" : 5,
   "ShotCoolTime" : 10,
