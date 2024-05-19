@@ -4,5 +4,5 @@
   "firstPressKeysNum" : 4,
   "secondPressKeysNum" : 5,
   "thirdPressKeysNum" : 6,
-  "description" : "Four keyboard direction keys(¡æ,¡ç,¡è,¡é) are output to the UI in a random order,\nand the mini-game can be cleared by pressing the direction keys in that order within the limited time. \nThere are a total of 3 rounds, and if they fail, the order of the direction keys changes and the round proceeds again."
+  "description" : "Four keyboard direction keys(â†’,â†,â†‘,â†“) are output to the UI in a random order,\nand the mini-game can be cleared by pressing the direction keys in that order within the limited time. \nThere are a total of 3 rounds, and if they fail, the order of the direction keys changes and the round proceeds again."
 } ]
