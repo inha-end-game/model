@@ -4,5 +4,7 @@
   "firstPressKeysNum" : 4,
   "secondPressKeysNum" : 5,
   "thirdPressKeysNum" : 6,
-  "description" : "Four keyboard direction keys(→,←,↑,↓) are output to the UI in a random order,\nand the mini-game can be cleared by pressing the direction keys in that order within the limited time. \nThere are a total of 3 rounds, and if they fail, the order of the direction keys changes and the round proceeds again."
+  "description" : "get 3 letters of the password before each three missions.\nInteract and wait the time for connecting to server.\nThen insert three letters you remembered.",
+  "connectingTime" : 10,
+  "passwordDigits" : 3
 } ]
